@@ -1,0 +1,174 @@
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.exe
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.deps.json
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.json
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.pdb
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfo.cs
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\refint\survey.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.pdb
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.genruntimeconfig.cache
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\ref\survey.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Login.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Register.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Dashboard.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.CreateaSurvey.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MultipleSelect.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MultipleChoice.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.ShortAnswer.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.FillintheBlank.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.UserUI.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SurveyTime.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Matching.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.VisualMatching.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.CustomMessageBox.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SurveyEdit.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CopyComplete
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Troll.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Properties.Resources.resources
+C:\Users\Computer\Desktop\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MCSolve.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.exe
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.deps.json
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.json
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.dev.json
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\ref\survey.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.pdb
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.AssemblyReference.cache
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.CreateaSurvey.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.CustomMessageBox.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Dashboard.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.FillintheBlank.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Login.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Matching.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MCSolve.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MultipleChoice.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MultipleSelect.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Properties.Resources.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Register.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.ShortAnswer.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SurveyEdit.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SurveyTime.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Troll.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.UserUI.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.VisualMatching.resources
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.GenerateResource.cache
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfoInputs.cache
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfo.cs
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CoreCompileInputs.cache
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CopyComplete
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\ref\survey.dll
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.pdb
+C:\Users\PC336\Desktop\G\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.genruntimeconfig.cache
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.exe
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.deps.json
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.json
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\survey.pdb
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.CreateaSurvey.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.CustomMessageBox.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Dashboard.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.FillintheBlank.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Login.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Matching.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MCSolve.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MultipleChoice.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MultipleSelect.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Properties.Resources.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Register.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.ShortAnswer.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SurveyEdit.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SurveyTime.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.Troll.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.UserUI.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.VisualMatching.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfo.cs
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CopyComplete
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\refint\survey.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.pdb
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.genruntimeconfig.cache
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\ref\survey.dll
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MSSolve.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.SASolve.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.FitBSolve.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.MSolve.resources
+C:\Users\Computer\Desktop\kurs\survey donkey\survey\survey\obj\Debug\net5.0-windows\survey.VMSolve.resources
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\survey.exe
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\survey.deps.json
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.json
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\survey.runtimeconfig.dev.json
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\survey.dll
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\survey.pdb
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\survey\survey\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.CreateaSurvey.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.CustomMessageBox.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.Dashboard.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.FillintheBlank.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.FitBSolve.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.Login.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.Matching.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.MCSolve.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.MSolve.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.MSSolve.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.MultipleChoice.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.MultipleSelect.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.Properties.Resources.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.Register.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.SASolve.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.ShortAnswer.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.SurveyEdit.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.SurveyTime.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.Troll.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.UserUI.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.VisualMatching.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.VMSolve.resources
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfoInputs.cache
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.AssemblyInfo.cs
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.csproj.CopyComplete
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.dll
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\refint\survey.dll
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.pdb
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\survey.genruntimeconfig.cache
+C:\Users\Computer\Desktop\survey\survey\obj\Debug\net5.0-windows\ref\survey.dll

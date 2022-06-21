@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CreateaSurvey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FillintheBlank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FitBSolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Matching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MCSolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MSolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MSSolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MultipleSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MultipleChoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SASolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShortAnswer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SurveyEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SurveyTime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Troll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VisualMatching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="VMSolve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
